@@ -8,7 +8,6 @@ I'm a **Backend Developer** passionate about designing robust architectures and 
 - 🧑‍🎓 Software engineer degree with over 2 years' experience.
 - 🏗️ Building scalable **APIs & microservices** that don't fall apart under pressure.
 - 🌎 Based in **Lima, Perú**.
-- 🔭 Currently working on **Desktop asistent** and learning **algorithms and data structure**.
 - 🌱 Always learning — right now exploring **algorithms && data structue**
 - 💬 Ask me about **Node.js, Spring Boot, cloud architecture, or Docker wizardry**
 - 📫 Reach me at: **jordanelcracken@gmail.com**
